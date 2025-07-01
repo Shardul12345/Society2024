@@ -1,0 +1,321 @@
+H:\Society\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+H:\Society\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+H:\Society\Society2024 7 july\BusinessLogic\bin\BusinessLogic.dll.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\BusinessLogic.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\BusinessLogic.pdb
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csc.exe
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csc.exe.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csc.rsp
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csi.exe
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csi.exe.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\csi.rsp
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.AppContext.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Console.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Globalization.Calendars.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Net.Http.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Net.Sockets.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.exe
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.exe.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.rsp
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+H:\Society\Society2024 7 july\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\Utility.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\Microsoft.ApplicationBlocks.Data.dll
+H:\Society\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.pdb
+H:\Society\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.dll.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\Utility.pdb
+H:\Society\Society2024 7 july\BusinessLogic\bin\Utility.dll.config
+H:\Society\Society2024 7 july\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Society\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+H:\Society\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.dll
+H:\Society\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\BusinessLogic.dll.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Utility.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\DataAccessLayer.dll.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Utility.pdb
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Utility.dll.config
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 7 july\BusinessLogic\obj\Release\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\DBCode.pdb
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\Admin\Desktop\Society2024 6 December - Copy - Copy\Society2024 6 December - Copy\BusinessLogic\obj\Release\BusinessLogic.pdb

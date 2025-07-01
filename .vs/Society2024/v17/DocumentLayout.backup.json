@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98209BC0-9421-4F77-A526-54BFBA8300B1}|Society2024\\Society2024.csproj|c:\\users\\athar\\onedrive\\desktop\\society2024 6 december - copy\\society2024 6 december - copy\\society2024\\society_search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98209BC0-9421-4F77-A526-54BFBA8300B1}|Society2024\\Society2024.csproj|solutionrelative:society2024\\society_search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98209BC0-9421-4F77-A526-54BFBA8300B1}|Society2024\\Society2024.csproj|C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\society2024\\society_search.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98209BC0-9421-4F77-A526-54BFBA8300B1}|Society2024\\Society2024.csproj|solutionrelative:society2024\\society_search.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30305991-315E-4F6D-AF9C-8761B0084E9F}|DBCode\\DBCode.csproj|C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\dbcode\\dataclass\\master_dataclass\\society_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30305991-315E-4F6D-AF9C-8761B0084E9F}|DBCode\\DBCode.csproj|solutionrelative:dbcode\\dataclass\\master_dataclass\\society_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Society_Member.cs",
+              "DocumentMoniker": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\DBCode\\DataClass\\Master_Dataclass\\Society_Member.cs",
+              "RelativeDocumentMoniker": "DBCode\\DataClass\\Master_Dataclass\\Society_Member.cs",
+              "ToolTip": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\DBCode\\DataClass\\Master_Dataclass\\Society_Member.cs",
+              "RelativeToolTip": "DBCode\\DataClass\\Master_Dataclass\\Society_Member.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwF0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:15:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "society_search.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\Society2024\\society_search.aspx.cs",
+              "RelativeDocumentMoniker": "Society2024\\society_search.aspx.cs",
+              "ToolTip": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\Society2024\\society_search.aspx.cs",
+              "RelativeToolTip": "Society2024\\society_search.aspx.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:26:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "society_search.aspx",
+              "DocumentMoniker": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\Society2024\\society_search.aspx",
+              "RelativeDocumentMoniker": "Society2024\\society_search.aspx",
+              "ToolTip": "C:\\Users\\Athar\\OneDrive\\Desktop\\Society2024 6 December - Copy\\Society2024 6 December - Copy\\Society2024\\society_search.aspx",
+              "RelativeToolTip": "Society2024\\society_search.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-19T06:47:38.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
